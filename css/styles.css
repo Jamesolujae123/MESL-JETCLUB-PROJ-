@@ -1,11 +1,9 @@
  body{
    font-family: "Montserrat";
-   background-color: #FBD72B;
  }
 
 #title {
-
-
+background-color: #FF8C00;
 }
 #testimonials {
 
@@ -16,8 +14,19 @@ h1 {
   font-family: "Montserrat-black", sans-serif;
   font-size: 3rem;
   line-height: 1.5;
+ color: #fff
 }
 
+h3 {
+ color: #0073FF;
+}
+
+hr {
+  border: dotted #0073FF 6px;
+  border-bottom: none;
+  width: 9%;
+  margin: 100px auto;
+}
 
 /* Navigation Bar */
 
