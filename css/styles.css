@@ -1,0 +1,60 @@
+ body{
+   font-family: "Montserrat";
+   background-color: #FBD72B;
+ }
+
+#title {
+
+
+}
+#testimonials {
+
+}
+
+
+h1 {
+  font-family: "Montserrat-black", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 4.5rem 0;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-right: 23px;
+  margin-right: 180px;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+/* Download bottons */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Features section */
+#features{
+  padding: 7% 15%;
+}
+
+/* Footer */
+#footer{
+  background-image: radial-gradient( #fff, #FFA500 );
+  text-align: center;
+
+}
