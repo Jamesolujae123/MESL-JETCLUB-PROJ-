@@ -1,2 +1,2 @@
 # MESL-JETCLUB-PROJ-
-JEATCLUB school proj ICTgroup 
+JETCLUB school proj ICTgroup 
